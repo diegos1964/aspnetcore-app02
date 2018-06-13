@@ -20,7 +20,5 @@ namespace app01.Data
             builder.ApplyConfiguration(new ProdutoMap());
             builder.ApplyConfiguration(new CategoriaMap());
         }
-
-
     }
 }
